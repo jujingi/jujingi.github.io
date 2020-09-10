@@ -1,6 +1,6 @@
-# cjf8899.github.io
+# jujingi.github.io
 
-> https://cjf8899.github.io/categories/
+> https://jujingi.github.io/categories/
 
 ## paper review
 
