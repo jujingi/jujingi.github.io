@@ -12,14 +12,6 @@
 
 ### Object detection
 
-### Text detection/Text recognition
+### Domain Adaptation
 
-### Face detection/Face recognition
-
-### Video Super-Resolution/Video deblurring
-
-### Video decaptioning
-
-### Video Inpainting
-
-### ...
+### Change Detection
